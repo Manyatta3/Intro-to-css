@@ -1,0 +1,97 @@
+body {
+    background-color: papayawhip;
+    border: 5px solid peru;
+    width: 1100px;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 50px;
+}
+
+h1, h2, h3 {
+    font-family: 'Arial', sans-serif;
+}
+
+h1 {
+    color: peru;
+}
+
+p {
+    color: brown;
+}
+
+h2 {
+    color: peru;
+}
+figcaption {
+    color: brown;
+}
+
+ol {
+    color: brown;
+}
+
+h3 {
+    color: peru;
+}
+
+ul {
+    color: brown;
+}
+
+/* Section 2: Table */
+
+h2 {
+    color: peru;
+}
+
+caption {
+        color: peru;
+        font-weight: bold;
+    }
+
+table {
+    width: 50%;
+    border: 5px solid peru;
+    margin: 20px 0;
+}
+
+th {
+    padding: 12px 15px;
+    border: 1px solid peru;
+    text-decoration: antiquewhite;
+    color: orange;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+td {
+    color: brown;
+    text-align: left;
+
+}
+
+/* Section 4: Table */ 
+
+form {
+    background-color: antiquewhite;
+    padding: 20px;
+}
+
+fieldset {
+    border: 5px solid peru;
+    padding: 20px;
+    margin: 20px 0;
+    color: brown;
+}
+ ::placeholder, :required {
+    color: peru;
+}
+
+input, select, textarea {
+    padding: 10px;
+    margin: 10px 0;
+    border: 2px solid peru;
+    border-radius: 5px;
+    color: peru;
+}
+
